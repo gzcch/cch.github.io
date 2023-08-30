@@ -4,16 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a master's student majoring in Computer Science and Technology at <a href="https://www.xjtu.edu.cn/" target="_blank"> Xi'an Jiaotong University</a>, working with Prof. <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=JcN97sQAAAAJ" target="_blank"> Jihua Zhu</a>.
+I am an undergraduated student majoring in Computer Science and Technology at <a href="https://en.uestc.edu.cn/" target="_blank"> University of Electronic Science and Technology of China (UESTC)</a>.
 
-I have previously participated in secondary market investments involving hundreds of millions of funds with <a href="https://www.ubs.com/us/en.html" target="_blank"> UBS</a> Group in Singapore, under the supervision of supervisor: Zuji Li. Simultaneously, I have collaborated with several top domestic private equity firms.
 
-I am currently working as a multimodal researcher at <a href="https://damo.alibaba.com/?lang=zh" target="_blank"> Alibaba DAMO Academy</a>, where I have the privilege of collaborating with <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=uIUfGxYAAAAJ" target="_blank"> Ming Yan</a>, Prof. <a href="https://scholar.google.com.hk/citations?user=yywVMhUAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Liqiang Nie</a> and Prof. Prof. <a href="[https://scholar.google.com.hk/citations?user=yywVMhUAAAAJ&hl=zh-CN&oi=ao](https://scholar.google.com.hk/citations?hl=zh-CN&user=pA9PNhsAAAAJ)" target="_blank"> Haoyu Tang</a>. I have the opportunity to work alongside Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> and Prof. <a href="https://scholar.google.com.hk/citations?user=DN8QtscAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Mohit Bansal</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>, which is truly exciting. Additionally, I have close collaboration with Prof. <a href="https://scholar.google.com.hk/citations?user=voxznZAAAAAJ&hl=zh-CN&oi=ao"  target="_blank">Xiaodan Liang</a> from <a href="https://www.sysu.edu.cn/"  target="_blank">Sun Yat-sen University</a>.
+I previously worked as a machine-learning researcher at UESTC, where I have the privilege of collaborating with Prof. <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a> 
+and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAAAJ&view_op=list_works&sortby=pubdatet" target="_blank"> Lifang He</a>.  Recently I have the opportunity to work  as an intern of Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a>.  Furthermore, I've had the privilege of collaborating with Prof. <a href="https://scholar.google.com.hk/citations?user=DN8QtscAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Mohit Bansal</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
 
 
 ## Research Interests
-- **Text/Multimodal Generation Task:** reliable and trustworthy large-scale language/vision-language models (LLMs, LVLMs, etc.)
-- **Multi-source Structured Information Extraction and Understanding:**  enable them to be enhanced and interact with the real world based on the diverse information from the real world
+- **Large Vision-language Model:** Security issues in  large vision-language models, (hallucination, attack, etc.)
+- **Multi-view Representation Learning:**   Exploring better representations for multimodal data
 
 
 <!-- {% include_relative _includes/publications.md %} -->
