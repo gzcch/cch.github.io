@@ -6,7 +6,7 @@
   <li><a href="https://aaai.org/aaai-conference/"><autocolor>Conference on Artificial Intelligence (AAAI) 2024</autocolor></a></li>
   <li><a href="https://nips.cc/Conferences/2023"><autocolor>  Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2023</autocolor></a></li>
   <li><a href="https://www.acmmm2023.org/"><autocolor>ACM International Conference on Multimedia (ACM MM) 2023</autocolor></a></li>
-  <li><a href=" https://ijcai-23.org/"><autocolor>   International Joint Conference on Artificial Intelligence  (IJCAI) 2023 </autocolor></a></li>
+  <li><a href="https://ijcai-23.org/"><autocolor>   International Joint Conference on Artificial Intelligence  (IJCAI) 2023 </autocolor></a></li>
   <li><a href="https://www.acaitconf.com/"><autocolor>  Asian Conference on Artificial Intelligence Technology (ACAIT) 2023 </autocolor></a></li>
 
 </ul>
