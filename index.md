@@ -32,7 +32,7 @@ and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAA
 <!-- - **[Apr. 2023]** Our paper about multi-view learning is accepted to IJCAI 2023.
          -->
 - -**[Apr. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023.
-
+ 
 
 ## Awards
 - **[Second Prize.2022]**  University of Electronic Science and Technology of China  Postgraduate Academic Scholarship
