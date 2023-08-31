@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduated student majoring in Computer Science and Technology at <a href="https://en.uestc.edu.cn/" target="_blank"> University of Electronic Science and Technology of China (UESTC)</a>.
+I am an undergraduated student majoring in Computer Science and Technology at Yingcai Honors College, <a href="https://en.uestc.edu.cn/" target="_blank"> University of Electronic Science and Technology of China (UESTC)</a>.
 
 
 I previously worked as a machine-learning researcher at UESTC, where I have the privilege of collaborating with Prof. <a href="https://scholar.google.com/citations?user=M7Ocw0YAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Yazhou Ren</a> 
@@ -29,20 +29,14 @@ and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAA
 
 ## Experiences
 
-<!-- - **[Feb. 2023]** Our paper about multi-view learning is accepted to IJCAI 2023.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019. -->
-- **[Apr. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023.
-- - **[Feb. 2023]** <a href="https://www.sciencedirect.com/science/article/pii/S089990072200346X" target="_blank">*Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
-- **[Jan. 2021]** <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jocd.13486" target="_blank">*Quantitative evaluation of rejuvenation treatment of nasolabial fold wrinkles by regression model and 3D photography*</a> has been accepted by the **Journal of Cosmetic Dermatology**.
+<!-- - **[Apr. 2023]** Our paper about multi-view learning is accepted to IJCAI 2023.
+         -->
+- -**[Apr. 2023]** <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" target="_blank"> *Deep Multi-view Subspace Clustering with Anchor Graph*</a> has been accepted to IJCAI 2023.
+
 
 ## Awards
-- **[Second Prize.2022]** Xi’an Jiaotong University Postgraduate Academic Scholarship
-- **[First Prize.2019]** Jilin University Outstanding student of the School of Software
-- **[First Prize.2019]** Jilin Province Mathematical Modeling Competition for College Students
-- **[Second Prize.2019]** Scholarship of the School of Software
-- **[Third Prize.2019]** Jilin University ”Internet+” Student Innovation and Entrepreneurship Competition
+- **[Second Prize.2022]**  University of Electronic Science and Technology of China  Postgraduate Academic Scholarship
+
 
 
 
