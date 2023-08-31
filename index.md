@@ -12,8 +12,8 @@ and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAA
 
 
 ## Research Interests
-- **Large Vision-language Model:** Security issues in  large vision-language models, (hallucination, attack, etc.)
-- **Multi-view Representation Learning:**   Exploring better representations for multimodal data
+- **Large Vision-language Model:** Especially security issues in  large vision-language models, (hallucination, attack, etc.)
+- **Multi-view Representation Learning:**   Exploring better representations for multimodal data in the real world
 
 
 <!-- {% include_relative _includes/publications.md %} -->
