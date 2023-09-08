@@ -39,7 +39,7 @@ and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAA
 - **[Second Prize.2022]**  University of Electronic Science and Technology of China  Postgraduate Academic Scholarship
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=dGXSPgRu4Rw9bcFL4bQUEOyChT1lZAKthh_J9t7SFSk&cl=ffffff&w=a"></script>
+
 
 {% include_relative _includes/services.md %}
 
