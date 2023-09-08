@@ -1,6 +1,3 @@
-![image](https://github.com/gzcch/gzcch.github.io/assets/92932169/daafa776-753d-4d4d-8965-e34c0deb9c2c)---
-layout: homepage
----
 
 ## About Me
 
