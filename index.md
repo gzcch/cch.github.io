@@ -36,7 +36,7 @@ and Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=obgTcyoAAA
 -  **[May. 2023 -- now]**  I'm an intern of  Prof. <a href="https://scholar.google.com.hk/citations?user=A20BZnQAAAAJ&hl=zh-CN&oi=ao" target="_blank"> Huaxiu Yao</a> from <a href="https://www.unc.edu/"  target="_blank">UNC</a>. 
 
 ## Awards
-- **[Second Prize.2022]**  University of Electronic Science and Technology of China  Postgraduate Academic Scholarship
+- **[Second Prize.2022]**  University of Electronic Science and Technology of China  Undergraduate Academic Scholarship
 
 
 
