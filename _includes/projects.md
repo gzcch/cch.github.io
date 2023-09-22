@@ -12,11 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://www.ijcai.org/proceedings/2023/0398.pdf"> Deep Multi-view Subspace Clustering with Anchor Graph</a></div>
-    <div class="author"><strong>Chenhang Cui</strong>, Yazhou Re, Jingyu Pu, Xiaorong Pu, Lifang He</div>
-    <div class="periodical"><em> International Joint Conferences on Artificial Intelligence (IJCAI) 2023, May. 2023.</em></div>
+    <div class="title"> A Novel Approach for Effective Multi-View Clustering with Information-Theoretic Perspective</div>
+    <div class="author"><strong>Chenhang Cui</strong>, Yazhou Ren, Jingyu Pu, Jiawei Li, Xiaorong Pu, Tianyi Wu,  Yutao Shi, Lifang He</div>
+    <div class="periodical"><em> Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2023, Sep. 2023.</em></div>
     <div class="links">
-      <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="" cnlass="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
 <!--       <strong><i style="color:#7b5aa6">arXiv.org</i></strong> -->
@@ -36,8 +36,8 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://www.ijcai.org/proceedings/2023/0398.pdf"> Deep Multi-view Subspace Clustering with Anchor Graph</a></div>
-    <div class="author"><strong>Chenhang Cui</strong>, Yazhou Re, Jingyu Pu, Xiaorong Pu, Lifang He</div>
-    <div class="periodical"><em> International Joint Conferences on Artificial Intelligence (IJCAI) 2023, May. 2023.</em></div>
+    <div class="author"><strong>Chenhang Cui</strong>, Yazhou Ren, Jingyu Pu, Xiaorong Pu, Lifang He</div>
+    <div class="periodical"><em> International Joint Conferences on Artificial Intelligence (IJCAI) 2023, Aug. 2023.</em></div>
     <div class="links">
       <a href="https://www.ijcai.org/proceedings/2023/0398.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
 <!--       <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
