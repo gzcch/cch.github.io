@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"> A Novel Approach for Effective Multi-View Clustering with Information-Theoretic Perspective</div>
+    <div class="title"> <a href=" https://arxiv.org/pdf/2309.13989.pdf"> A Novel Approach for Effective Multi-View Clustering with Information-Theoretic Perspective</a></div>
     <div class="author"><strong>Chenhang Cui</strong>, Yazhou Ren, Jingyu Pu, Jiawei Li, Xiaorong Pu, Tianyi Wu,  Yutao Shi, Lifang He</div>
     <div class="periodical"><em> Conference and Workshop on Neural Information Processing Systems (NeurIPS) 2023, Sep. 2023.</em></div>
     <div class="links">
