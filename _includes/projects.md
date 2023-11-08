@@ -26,6 +26,25 @@
 </li>
 
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+ <img src="assets/img/main_case.png" class="teaser img-fluid z-depth-1">
+<!--    <abbr class="badge">arXiv</abbr> -->
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2311.03287.pdf"> Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges </a></div>
+    <div class="author"> <strong>Chenhang Cui*</strong>, <strong>Yiyang Zhou*</strong>, Xinyu Yang, Shirley Wu Linjun Zhang, James Zou, Huaxiu Yao</div>
+    <div class="periodical"><em> Arxiv.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2311.03287.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/gzcch/Bingo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+</li>
 
 
 
@@ -80,25 +99,6 @@
 
 
 
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
- <img src="assets/img/main_case.png" class="teaser img-fluid z-depth-1">
-<!--    <abbr class="badge">arXiv</abbr> -->
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2311.03287.pdf"> Holistic Analysis of Hallucination in GPT-4V(ision): Bias and Interference Challenges </a></div>
-    <div class="author"> <strong>Chenhang Cui*</strong>, Yiyang Zhou*</strong>, Xinyu Yang, Shirley Wu Linjun Zhang, James Zou, Huaxiu Yao</div>
-    <div class="periodical"><em> Arxiv.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2311.03287.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/gzcch/Bingo" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-</li>
 
 
 
